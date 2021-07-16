@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on simple projects that can help me understand programming in an easier way
 - 📫 How to reach me all my social media comes by the name "lexteroid"
+- I speak English (fluent) and Spanish (native speaker), lookimg to learn German and Dutch
 
 <!---
 lemsex/lemsex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
